@@ -1,0 +1,5 @@
+1. Implement the "logout after so much inactivity" feature.
+2. Comment the code.
+3. Make it impossible for people to look at the "views" without being
+logged in...either via redirects (a-la Moodle) or placing them in forbidden directories.
+4. Do htmlentities() escaping of user input. 
